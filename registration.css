@@ -1,0 +1,17 @@
+body {
+    background-color: #343a40;
+}
+
+.card {
+    background-color: #495057;
+}
+
+.form-control {
+    color: #f8f9fa;
+}
+
+.btn-custom:hover {
+    background-color: #007bff;
+    color: #fff;
+    transition: all 0.2s;
+}
